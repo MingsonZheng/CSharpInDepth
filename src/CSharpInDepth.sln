@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.31903.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp2", "CSharp2", "{8F0BFFBB-C0DF-4B50-AC69-384FD03FF8FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托的兼容性", "委托的兼容性\委托的兼容性.csproj", "{E5D1C3AF-4912-42D8-BEA7-EAB9A1F354FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "委托的兼容性", "委托的兼容性\委托的兼容性.csproj", "{E5D1C3AF-4912-42D8-BEA7-EAB9A1F354FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "迭代器", "迭代器\迭代器.csproj", "{3E365D24-C702-417B-8091-0978D533C5EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +19,17 @@ Global
 		{E5D1C3AF-4912-42D8-BEA7-EAB9A1F354FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5D1C3AF-4912-42D8-BEA7-EAB9A1F354FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5D1C3AF-4912-42D8-BEA7-EAB9A1F354FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E365D24-C702-417B-8091-0978D533C5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E365D24-C702-417B-8091-0978D533C5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E365D24-C702-417B-8091-0978D533C5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E365D24-C702-417B-8091-0978D533C5EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E5D1C3AF-4912-42D8-BEA7-EAB9A1F354FC} = {8F0BFFBB-C0DF-4B50-AC69-384FD03FF8FF}
+		{3E365D24-C702-417B-8091-0978D533C5EF} = {8F0BFFBB-C0DF-4B50-AC69-384FD03FF8FF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {449E95BF-37EF-47AC-B6E0-866972FEA2F4}
