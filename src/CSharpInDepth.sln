@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lambda表达式", "lambda�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扩展方法", "扩展方法\扩展方法.csproj", "{47657F10-565F-45A9-9E68-6E6ABDC1CB3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "查询表达式", "查询表达式\查询表达式.csproj", "{88C39387-8A41-4018-8DFC-729754CF2BAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{47657F10-565F-45A9-9E68-6E6ABDC1CB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47657F10-565F-45A9-9E68-6E6ABDC1CB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47657F10-565F-45A9-9E68-6E6ABDC1CB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C39387-8A41-4018-8DFC-729754CF2BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C39387-8A41-4018-8DFC-729754CF2BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C39387-8A41-4018-8DFC-729754CF2BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C39387-8A41-4018-8DFC-729754CF2BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
