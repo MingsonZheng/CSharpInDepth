@@ -6,3 +6,4 @@ C# in depth code list
 - [lambda表达式](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F/Program.cs)
 - [扩展方法](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/%E6%89%A9%E5%B1%95%E6%96%B9%E6%B3%95/Program.cs)
 - [查询表达式](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/%E6%9F%A5%E8%AF%A2%E8%A1%A8%E8%BE%BE%E5%BC%8F/Program.cs)
+- [动态类型](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/%E5%8A%A8%E6%80%81%E7%B1%BB%E5%9E%8B/Program.cs)
